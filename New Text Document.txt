@@ -1,0 +1,5 @@
+BitSet
+STRUCTURES-->(to sort the structure by multiplevalues).
+UPPER and LOWER BOUNDS--> (To find the ranges int a vector in logn).
+__buitin_popcount() -->O(n) to find the number of set bits in a binary representation.
+next_permutation()--> O(n) to find the permutation in lexicographical increasing order.
